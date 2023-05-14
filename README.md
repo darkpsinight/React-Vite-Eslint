@@ -1,1 +1,1 @@
-startup fast for creating React with Vite and Eslint project.
+Fast startup for creating React with Vite and Eslint project.
