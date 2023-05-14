@@ -1,2 +1,1 @@
-Bulletin board tutorial
-Link: https://youtu.be/hI-VgEaCMyQ
+startup fast for creating React with Vite and Eslint project.
